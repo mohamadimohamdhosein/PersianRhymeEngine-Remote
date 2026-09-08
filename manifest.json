@@ -1,13 +1,13 @@
 {
-  "dataset_version": "2026.09.08",
+  "dataset_version": "2026.09.08.2",
   "files": {
     "persian_phonetics.txt": {
       "version": 1,
       "sha256": "5599E1BD174F3EB36079845E552683FE1ABB6F7C4A3D212B719746ACE4955823"
     },
     "persian_extra.txt": {
-      "version": 1,
-      "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+      "version": 2,
+      "sha256": "46BC132FF826A78940D36081DCE021C8B9F038F2F6EB396F8F802735460D3ADD"
     },
     "rap_lexicon.txt": {
       "version": 1,
