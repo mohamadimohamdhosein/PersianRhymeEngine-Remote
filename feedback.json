@@ -1,0 +1,38 @@
+{
+  "رپ|||تپ": {
+    "base": "رپ",
+    "candidate": "تپ",
+    "likes": 1,
+    "dislikes": 0
+  },
+  "god|||codd": {
+    "base": "god",
+    "candidate": "codd",
+    "likes": 0,
+    "dislikes": 3
+  },
+  "god|||dodd": {
+    "base": "god",
+    "candidate": "dodd",
+    "likes": 0,
+    "dislikes": 2
+  },
+  "make|||fake": {
+    "base": "make",
+    "candidate": "fake",
+    "likes": 1,
+    "dislikes": 0
+  },
+  "کشاورز|||به‌ناحق": {
+    "base": "کشاورز",
+    "candidate": "به‌ناحق",
+    "likes": 7,
+    "dislikes": 0
+  },
+  "کشاورز|||اشتالنگ": {
+    "base": "کشاورز",
+    "candidate": "اشتالنگ",
+    "likes": 0,
+    "dislikes": 1
+  }
+}
